@@ -26,7 +26,7 @@ To run the edge collapse simulation:
 
 To visualize the data:
 
-Run 
+1. Run the `visual.ipynb` file to plot the data.
 
 
 
