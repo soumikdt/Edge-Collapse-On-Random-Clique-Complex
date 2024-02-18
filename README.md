@@ -16,24 +16,6 @@ The simulation code consists of three main files:
 3. [Add description of the third file once it's created]
 
 
-
-soumikdt/Edge-Collapse-On-Randon-Clique-Complex/
-│
-├── randomedgecollapse-3.ipynb
-├── edgecol_output_data-3.csv
-├── simulation_output/        # Folder for output data of the first code
-│   ├── simulation_output_1.csv
-│   ├── simulation_output_2.csv
-│   └── ...
-├── visualization_script.py   # Third code for visualization (if created)
-├── visualization_output/     # Folder for visualization output files
-│   ├── visualization_output_1.png
-│   ├── visualization_output_2.png
-│   └── ...
-├── README.md
-└── LICENSE    
-
-
 ## Usage
 
 To run the edge collapse simulation:
