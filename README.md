@@ -1,7 +1,7 @@
 # Edge Collapse On Randon Clique Complex
 ## Python code for simulating the edge collapse procedure on Erdos-Renyi clique complex
 
-This repository contains Python code to simulate the edge collapse process on random simplicial complexes, as described in the paper "On Edge Collapse of Random Simplicial Complexes" submitted to SoCG'24. Edge collapse is a method to reduce the size of a simplicial complex while preserving its homotopy (and hence homology). Running this edge collpase recursively on a simplicial complex effectively reduces the size of the complex reducing the complex to its _core_. The code estimate size the core of random simplicial complexes to support theretical results obtained in the concerened paper.
+This repository contains Python code to simulate the edge collapse process on random simplicial complexes, as described in the paper "On Edge Collapse of Random Simplicial Complexes" submitted to SoCG'24. Edge collapse is a method to reduce the size of a simplicial complex while preserving its homotopy (and hence homology). Running this edge collpase recursively on a simplicial complex effectively reduces the size of the complex reducing the complex to its _core_. The code estimate size the core of random simplicial complexes to support theoretical results obtained in the concerened paper.
 
 
 
